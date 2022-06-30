@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/ homework6/DZ6/bin/Debug/net6.0/DZ6
+/Users/kristina/Desktop/ homework6/DZ6/bin/Debug/net6.0/DZ6.deps.json
+/Users/kristina/Desktop/ homework6/DZ6/bin/Debug/net6.0/DZ6.runtimeconfig.json
+/Users/kristina/Desktop/ homework6/DZ6/bin/Debug/net6.0/DZ6.dll
+/Users/kristina/Desktop/ homework6/DZ6/bin/Debug/net6.0/ref/DZ6.dll
+/Users/kristina/Desktop/ homework6/DZ6/bin/Debug/net6.0/DZ6.pdb
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.AssemblyInfo.cs
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.dll
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/ref/DZ6.dll
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.pdb
+/Users/kristina/Desktop/ homework6/DZ6/obj/Debug/net6.0/DZ6.genruntimeconfig.cache
